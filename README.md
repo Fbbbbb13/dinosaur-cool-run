@@ -1,0 +1,2 @@
+# dinosaur-cool-run
+一个使用Python和Pygame开发的经典恐龙跑酷游戏，灵感来源于Chrome浏览器的离线小恐龙游戏
